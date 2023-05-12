@@ -3,12 +3,12 @@ import { Link } from 'react-router-dom'
 import Aside from '../../Components/Aside/Aside'
 import Navbar from '../../Components/Navbar/Navbar'
 import "./overview.scss"
-const Overview = () => {
+const Overview = ({title, setTitle}) => {
   return (
     <div>
-      <Aside/>
+      {/* <Aside/> */}
       <div className="total">
-        <Navbar/>
+        {/* <Navbar/> */}
       <section className="overview">
         <div className="card">
           <h4>Unresolved</h4>

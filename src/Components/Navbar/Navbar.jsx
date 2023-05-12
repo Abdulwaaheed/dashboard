@@ -1,11 +1,12 @@
 import React from 'react'
 import "./navbar.scss"
 
-const Navbar = () => {
-  return (
+const Navbar = ({title, setTitle}) => {
+  console.log(title);
+  return (  
     <div>
        <div className="nav">
-       <h1>Tickets</h1>
+       <h1>{title}</h1>
         <ul>
             <li><i className="fa-solid fa-magnifying-glass"></i></li>
             <li><i className="fa-solid fa-bell"></i></li>
