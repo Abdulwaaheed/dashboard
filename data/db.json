@@ -7,7 +7,10 @@
             "age":"36",
             "movie":"Spiderman",
             "county":"America",
-            "image":"https://media.vanityfair.com/photos/629e56c32347921cee05b4aa/1:1/w_1333,h_1333,c_limit/andrew-garfield-lgm.jpg"
+            "image":"https://media.vanityfair.com/photos/629e56c32347921cee05b4aa/1:1/w_1333,h_1333,c_limit/andrew-garfield-lgm.jpg",
+            "date":"May 12,2023",
+            "status":"HIGH",
+            "title":"I've realised that at the top of the mountain, there's another mountain."
 
         },
         {
@@ -17,7 +20,10 @@
             "age":"38",
             "movie":"Venom",
             "county":"London",
-            "image":"https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTojoIUFOZ1OKFf1m1PfcEaaKmUWWjFR_3EIoFcy03w3DS87AZzTBfT02unMHQ5qP1t"
+            "image":"https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTojoIUFOZ1OKFf1m1PfcEaaKmUWWjFR_3EIoFcy03w3DS87AZzTBfT02unMHQ5qP1t",
+            "date":"May 12,2023",
+            "status":"HIGH",
+            "title":"You mustn't be afraid to dream a little bigger"
         },
         {
             "id":"3",
@@ -26,7 +32,10 @@
             "age":"58",
             "movie":"Iron Man",
             "county":"London",
-            "image":"https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRxliyxF3MEWoqttgtPvZ1qnaVKh5TNEdTwgmH-lq2LFr9_FA7dJKJk-yZPATuiUdRh"
+            "image":"https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRxliyxF3MEWoqttgtPvZ1qnaVKh5TNEdTwgmH-lq2LFr9_FA7dJKJk-yZPATuiUdRh",
+            "date":"May 12,2023",
+            "status":"HIGH",
+            "title":"The lesson is that you can still make mistakes and be forgiven."
 
         },
         {
@@ -36,7 +45,10 @@
             "age":"25",
             "movie":"spiderman",
             "county":"UK",
-            "image":"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQ4vi_du17tgWoFRa8kRnZHJYrwNkYgvX86XE_JyuKC0HlQZdn46Wd-BvewGoVrqmbV"
+            "image":"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQ4vi_du17tgWoFRa8kRnZHJYrwNkYgvX86XE_JyuKC0HlQZdn46Wd-BvewGoVrqmbV",
+            "date":"May 12,2023",
+            "status":"NORMAL",
+            "title":" Fame is a beast that you can't control or be prepared for."
 
         },
         {
@@ -46,7 +58,10 @@
             "age":"48",
             "movie":"Titanic",
             "county":"America",
-            "image":"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRyPzbmJ96_NB0dLxPCtVCL9rEwwkovxB00Ieksc8kkeBQlb1kMZGibfKNlR9xh033D"
+            "image":"https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRyPzbmJ96_NB0dLxPCtVCL9rEwwkovxB00Ieksc8kkeBQlb1kMZGibfKNlR9xh033D",
+            "date":"May 12,2023",
+            "status":"NORMAL",
+            "title":"The lesson is that you can still make mistakes and be forgiven."
 
         },
         {
@@ -54,9 +69,12 @@
             "name":"Jonny",
             "lastname":"Depp",
             "age":"59",
-            "role":"Pirates of the Karibbian",
+            "movie":"Pirates of the Karibbian",
             "county":"America",
-            "image":"https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcT5w1rVSTMMykEjeB8NG6206NB43rJYJnPzL5EMKsLgwuEuhWklKLjwoQ7KqEXsdGHB"
+            "image":"https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcT5w1rVSTMMykEjeB8NG6206NB43rJYJnPzL5EMKsLgwuEuhWklKLjwoQ7KqEXsdGHB",
+            "date":"May 12,2023",
+            "status":"LOW",
+            "title":"You mustn't be afraid to dream a little bigger"
 
         },
         {
@@ -64,9 +82,12 @@
             "name":"Bradly",
             "lastname":"Pitt",
             "age":"59",
-            "role":"Troya",
+            "movie":"Troya",
             "county":"America",
-            "image":"https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRA5ERshGKkFmw6DS8DWsoRKkpdLOWPxesnKkvTPA6eSEC_cxJ0jhWboyZecJBsgJVq"
+            "image":"https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRA5ERshGKkFmw6DS8DWsoRKkpdLOWPxesnKkvTPA6eSEC_cxJ0jhWboyZecJBsgJVq",
+            "date":"May 12,2023",
+            "status":"HIGH",
+            "title":"I've realised that at the top of the mountain, there's another mountain."
 
         }
         
